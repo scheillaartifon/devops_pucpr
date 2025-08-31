@@ -11,3 +11,6 @@ Sistemas de controle de versão mais comuns
 * Team Foundation Version Control (TFVC)
 
 O Git e o Mercurial são distribuídos, SVN e TFVC são Centralizados.
+
+### CI/CD
+Também aprendemos sobre CI e CD

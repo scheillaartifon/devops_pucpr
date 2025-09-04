@@ -1,9 +1,5 @@
 name: Continuous Delivery
 
-permissions:
-  contents: write
-  packages: write
-
 on:
   push:
     branches:

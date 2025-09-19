@@ -1,6 +1,6 @@
 import random
 from fastapi import FastAPI
-from fpydantic import BaseModel
+from pydantic import BaseModel
 
 app = FastAPI()
 
